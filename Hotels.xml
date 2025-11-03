@@ -6,27 +6,25 @@
     <Name>Desert Mirage Resort</Name>
     <Phone>480-555-9988</Phone>
     <Phone>480-555-9911</Phone>
-    <Address>
+    <Address NearestAirport="PHX">
       <Number>2001</Number>
       <Street>E University Dr</Street>
       <City>Tempe</City>
       <State>AZ</State>
       <Zip>85281</Zip>
-      <NearestAirport>PHX</NearestAirport>
     </Address>
   </Hotel>
 
-  <Hotel Rating="4">
+  <Hotel>
     <Name>Sun Valley Inn</Name>
     <Phone>602-555-7766</Phone>
-    <Address>
+    <Address NearestAirport="PHX">
       <Number>1200</Number>
       <Street>N Scottsdale Rd</Street>
       <City>Scottsdale</City>
       <State>AZ</State>
       <Zip>85257</Zip>
-      <NearestAirport>PHX</NearestAirport>
     </Address>
   </Hotel>
 
-</Hotels>
+  </Hotels>
